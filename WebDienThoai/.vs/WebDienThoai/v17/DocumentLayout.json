@@ -1,0 +1,500 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\webdienthoai\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|solutionrelative:webdienthoai\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\webdienthoai\\product.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|solutionrelative:webdienthoai\\product.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\webdienthoai\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|solutionrelative:webdienthoai\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\webdienthoai\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|solutionrelative:webdienthoai\\admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|c:\\users\\donpr\\downloads\\webdienthoai (1) (1)\\webdienthoai (1)\\webdienthoai\\webdienthoai\\dangky.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|solutionrelative:webdienthoai\\dangky.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\webdienthoai\\dangky.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|solutionrelative:webdienthoai\\dangky.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\webdienthoai\\trangchu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|solutionrelative:webdienthoai\\trangchu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\webdienthoai\\trangchu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|solutionrelative:webdienthoai\\trangchu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\webdienthoai\\sanpham.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|solutionrelative:webdienthoai\\sanpham.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\webdienthoai\\sanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|solutionrelative:webdienthoai\\sanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\webdienthoai\\assets\\css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|solutionrelative:webdienthoai\\assets\\css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\webdienthoai\\_layout.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|solutionrelative:webdienthoai\\_layout.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|c:\\users\\donpr\\downloads\\webdienthoai (1) (1)\\webdienthoai (1)\\webdienthoai\\webdienthoai\\assets\\css\\base.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|solutionrelative:webdienthoai\\assets\\css\\base.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\webdienthoai\\assets\\css\\dangky.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|solutionrelative:webdienthoai\\assets\\css\\dangky.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\webdienthoai\\giohang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|solutionrelative:webdienthoai\\giohang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\webdienthoai\\inforproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|solutionrelative:webdienthoai\\inforproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\webdienthoai\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|solutionrelative:webdienthoai\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\webdienthoai\\giohang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|solutionrelative:webdienthoai\\giohang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\webdienthoai\\assets\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|solutionrelative:webdienthoai\\assets\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\webdienthoai\\dangnhap.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|solutionrelative:webdienthoai\\dangnhap.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\webdienthoai\\dangnhap.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|solutionrelative:webdienthoai\\dangnhap.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\webdienthoai\\assets\\css\\camon.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|solutionrelative:webdienthoai\\assets\\css\\camon.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\webdienthoai\\gioithieu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|solutionrelative:webdienthoai\\gioithieu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\webdienthoai\\assets\\css\\trangchu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|solutionrelative:webdienthoai\\assets\\css\\trangchu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\webdienthoai\\assets\\css\\sanpham.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|solutionrelative:webdienthoai\\assets\\css\\sanpham.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\webdienthoai\\camon.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|solutionrelative:webdienthoai\\camon.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\webdienthoai\\sanpham.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|solutionrelative:webdienthoai\\sanpham.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\webdienthoai\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D7862EB1-827F-4D09-8F14-BD5A12D0FD80}|WebDienThoai\\WebDienThoai.csproj|solutionrelative:webdienthoai\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 451,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "admin.aspx",
+              "DocumentMoniker": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\admin.aspx",
+              "RelativeDocumentMoniker": "WebDienThoai\\admin.aspx",
+              "ToolTip": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\admin.aspx",
+              "RelativeToolTip": "WebDienThoai\\admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-14T14:27:01.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrangChu.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\TrangChu.aspx.cs",
+              "RelativeDocumentMoniker": "WebDienThoai\\TrangChu.aspx.cs",
+              "ToolTip": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\TrangChu.aspx.cs",
+              "RelativeToolTip": "WebDienThoai\\TrangChu.aspx.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T11:58:56.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "admin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\admin.aspx.cs",
+              "RelativeDocumentMoniker": "WebDienThoai\\admin.aspx.cs",
+              "ToolTip": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\admin.aspx.cs",
+              "RelativeToolTip": "WebDienThoai\\admin.aspx.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCUAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:41:26.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DangKy.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\DangKy.aspx.cs",
+              "RelativeDocumentMoniker": "WebDienThoai\\DangKy.aspx.cs",
+              "ToolTip": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\DangKy.aspx.cs",
+              "RelativeToolTip": "WebDienThoai\\DangKy.aspx.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAkwHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T01:16:37.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SanPham.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\SanPham.aspx.cs",
+              "RelativeDocumentMoniker": "WebDienThoai\\SanPham.aspx.cs",
+              "ToolTip": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\SanPham.aspx.cs",
+              "RelativeToolTip": "WebDienThoai\\SanPham.aspx.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T00:39:15.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TrangChu.aspx",
+              "DocumentMoniker": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\TrangChu.aspx",
+              "RelativeDocumentMoniker": "WebDienThoai\\TrangChu.aspx",
+              "ToolTip": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\TrangChu.aspx",
+              "RelativeToolTip": "WebDienThoai\\TrangChu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-14T11:58:55.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "base.css",
+              "DocumentMoniker": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\assets\\css\\base.css",
+              "RelativeDocumentMoniker": "WebDienThoai\\assets\\css\\base.css",
+              "ToolTip": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\assets\\css\\base.css",
+              "RelativeToolTip": "WebDienThoai\\assets\\css\\base.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-15T01:55:17.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "product.cs",
+              "DocumentMoniker": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\product.cs",
+              "RelativeDocumentMoniker": "WebDienThoai\\product.cs",
+              "ToolTip": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\product.cs",
+              "RelativeToolTip": "WebDienThoai\\product.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAxwCcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T00:10:55.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "product.json",
+              "DocumentMoniker": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\product.json",
+              "RelativeDocumentMoniker": "WebDienThoai\\product.json",
+              "ToolTip": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\product.json",
+              "RelativeToolTip": "WebDienThoai\\product.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwIIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-14T15:01:44.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "responsive.css",
+              "DocumentMoniker": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\assets\\css\\responsive.css",
+              "RelativeDocumentMoniker": "WebDienThoai\\assets\\css\\responsive.css",
+              "ToolTip": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\assets\\css\\responsive.css",
+              "RelativeToolTip": "WebDienThoai\\assets\\css\\responsive.css",
+              "ViewState": "AQIAAN4BAAAAAAAAAAAAAOoBAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-14T14:00:51.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DangKy.aspx",
+              "DocumentMoniker": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\DangKy.aspx",
+              "RelativeDocumentMoniker": "WebDienThoai\\DangKy.aspx",
+              "ToolTip": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\DangKy.aspx",
+              "RelativeToolTip": "WebDienThoai\\DangKy.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-13T00:36:31.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_layout.Master",
+              "DocumentMoniker": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\_layout.Master",
+              "RelativeDocumentMoniker": "WebDienThoai\\_layout.Master",
+              "ToolTip": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\_layout.Master",
+              "RelativeToolTip": "WebDienThoai\\_layout.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-13T00:10:30.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SanPham.aspx",
+              "DocumentMoniker": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\SanPham.aspx",
+              "RelativeDocumentMoniker": "WebDienThoai\\SanPham.aspx",
+              "ToolTip": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\SanPham.aspx",
+              "RelativeToolTip": "WebDienThoai\\SanPham.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-13T00:39:08.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GioHang.aspx",
+              "DocumentMoniker": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\GioHang.aspx",
+              "RelativeDocumentMoniker": "WebDienThoai\\GioHang.aspx",
+              "ToolTip": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\GioHang.aspx",
+              "RelativeToolTip": "WebDienThoai\\GioHang.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-14T14:15:30.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GioHang.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\GioHang.aspx.cs",
+              "RelativeDocumentMoniker": "WebDienThoai\\GioHang.aspx.cs",
+              "ToolTip": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\GioHang.aspx.cs",
+              "RelativeToolTip": "WebDienThoai\\GioHang.aspx.cs",
+              "ViewState": "AQIAAMQAAAAAAAAAAAAuwNYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:15:33.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DangKy.css",
+              "DocumentMoniker": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\assets\\css\\DangKy.css",
+              "RelativeDocumentMoniker": "WebDienThoai\\assets\\css\\DangKy.css",
+              "ToolTip": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\assets\\css\\DangKy.css",
+              "RelativeToolTip": "WebDienThoai\\assets\\css\\DangKy.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-15T01:16:29.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "inforproduct.cs",
+              "DocumentMoniker": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\inforproduct.cs",
+              "RelativeDocumentMoniker": "WebDienThoai\\inforproduct.cs",
+              "ToolTip": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\inforproduct.cs",
+              "RelativeToolTip": "WebDienThoai\\inforproduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T01:53:25.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\Global.asax.cs",
+              "RelativeDocumentMoniker": "WebDienThoai\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\Global.asax.cs",
+              "RelativeToolTip": "WebDienThoai\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T23:53:57.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\assets\\js\\main.js",
+              "RelativeDocumentMoniker": "WebDienThoai\\assets\\js\\main.js",
+              "ToolTip": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\assets\\js\\main.js",
+              "RelativeToolTip": "WebDienThoai\\assets\\js\\main.js",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-14T12:00:24.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DangNhap.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\DangNhap.aspx.cs",
+              "RelativeDocumentMoniker": "WebDienThoai\\DangNhap.aspx.cs",
+              "ToolTip": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\DangNhap.aspx.cs",
+              "RelativeToolTip": "WebDienThoai\\DangNhap.aspx.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T23:53:50.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DangNhap.aspx",
+              "DocumentMoniker": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\DangNhap.aspx",
+              "RelativeDocumentMoniker": "WebDienThoai\\DangNhap.aspx",
+              "ToolTip": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\DangNhap.aspx",
+              "RelativeToolTip": "WebDienThoai\\DangNhap.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-03T06:05:37.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "camon.css",
+              "DocumentMoniker": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\assets\\css\\camon.css",
+              "RelativeDocumentMoniker": "WebDienThoai\\assets\\css\\camon.css",
+              "ToolTip": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\assets\\css\\camon.css",
+              "RelativeToolTip": "WebDienThoai\\assets\\css\\camon.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-14T14:00:57.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SanPham.css",
+              "DocumentMoniker": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\assets\\css\\SanPham.css",
+              "RelativeDocumentMoniker": "WebDienThoai\\assets\\css\\SanPham.css",
+              "ToolTip": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\assets\\css\\SanPham.css",
+              "RelativeToolTip": "WebDienThoai\\assets\\css\\SanPham.css",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-14T07:31:17.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GioiThieu.aspx",
+              "DocumentMoniker": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\GioiThieu.aspx",
+              "RelativeDocumentMoniker": "WebDienThoai\\GioiThieu.aspx",
+              "ToolTip": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\GioiThieu.aspx",
+              "RelativeToolTip": "WebDienThoai\\GioiThieu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-13T00:36:43.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TrangChu.css",
+              "DocumentMoniker": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\assets\\css\\TrangChu.css",
+              "RelativeDocumentMoniker": "WebDienThoai\\assets\\css\\TrangChu.css",
+              "ToolTip": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\assets\\css\\TrangChu.css",
+              "RelativeToolTip": "WebDienThoai\\assets\\css\\TrangChu.css",
+              "ViewState": "AQIAAC0BAAAAAAAAAAAAwEMBAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-14T14:04:52.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "camon.aspx",
+              "DocumentMoniker": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\camon.aspx",
+              "RelativeDocumentMoniker": "WebDienThoai\\camon.aspx",
+              "ToolTip": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\camon.aspx",
+              "RelativeToolTip": "WebDienThoai\\camon.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-14T11:21:17.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SanPham.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\SanPham.aspx.designer.cs",
+              "RelativeDocumentMoniker": "WebDienThoai\\SanPham.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\SanPham.aspx.designer.cs",
+              "RelativeToolTip": "WebDienThoai\\SanPham.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T07:14:05.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\packages.config",
+              "RelativeDocumentMoniker": "WebDienThoai\\packages.config",
+              "ToolTip": "C:\\Users\\DONPR\\Downloads\\WebDienThoai (1) (1)\\WebDienThoai (1)\\WebDienThoai\\WebDienThoai\\packages.config",
+              "RelativeToolTip": "WebDienThoai\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-13T00:46:08.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

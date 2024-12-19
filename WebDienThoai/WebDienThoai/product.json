@@ -1,0 +1,222 @@
+[
+  {
+    "id": "1",
+    "ten": "Xiaomi Redmi 9A 2GB/32GB Xanh dương",
+    "TH": "Xiaomi",
+    "image": "assets/img/sp1-1.jpg",
+    "soluong": "2",
+    "giamgia": "19000000",
+    "tien": "25000000",
+    "PTgiam": "10",
+    "information": "Độ phân giải Full HD+ (1080 x 2340 Pixels) đảm bảo độ rõ nét và chi tiết ấn tượng ở mọi góc độ. Từ việc xem video chất lượng cao đến lướt web và chơi game, màn hình này mang đến trải nghiệm sắc nét và màu sắc chân thực."
+  },
+  {
+    "id": "2",
+    "ten": "Samsung Galaxy A52 4G 8GB/128GB Xanh",
+    "TH": "Xiaomi",
+    "image": "assets/img/sp1-2.jpg",
+    "soluong": "5",
+    "giamgia": "6750000",
+    "tien": "7750000",
+    "PTgiam": "10",
+    "information": "Độ phân giải Full HD+ (1080 x 2340 Pixels) đảm bảo độ rõ nét và chi tiết ấn tượng ở mọi góc độ. Từ việc xem video chất lượng cao đến lướt web và chơi game, màn hình này mang đến trải nghiệm sắc nét và màu sắc chân thực."
+  },
+  {
+    "id": "3",
+    "ten": "Samsung Galaxy A32 4G 6GB/128GB Xanh",
+    "TH": "Xiaomi",
+    "image": "assets/img/sp1-3.jpg",
+    "soluong": "8",
+    "giamgia": "4490000",
+    "tien": "5490000",
+    "PTgiam": "10",
+    "information": "Độ phân giải Full HD+ (1080 x 2340 Pixels) đảm bảo độ rõ nét và chi tiết ấn tượng ở mọi góc độ. Từ việc xem video chất lượng cao đến lướt web và chơi game, màn hình này mang đến trải nghiệm sắc nét và màu sắc chân thực."
+  },
+  {
+    "id": "4",
+    "ten": "Xiaomi Redmi 9C 3GB/64GB Xám",
+    "TH": "Xiaomi",
+    "image": "assets/img/sp1-4.jpg",
+    "soluong": "6",
+    "giamgia": "2490000",
+    "tien": "3490000",
+    "PTgiam": "10",
+    "information": "Độ phân giải Full HD+ (1080 x 2340 Pixels) đảm bảo độ rõ nét và chi tiết ấn tượng ở mọi góc độ. Từ việc xem video chất lượng cao đến lướt web và chơi game, màn hình này mang đến trải nghiệm sắc nét và màu sắc chân thực."
+  },
+  {
+    "id": "5",
+    "ten": "OPPO A55 4GB/64GB Xanh",
+    "TH": "Xiaomi",
+    "image": "assets/img/sp1-5.jpg",
+    "soluong": "10",
+    "giamgia": "2950000",
+    "tien": "3950000",
+    "PTgiam": "10",
+    "information": "Độ phân giải Full HD+ (1080 x 2340 Pixels) đảm bảo độ rõ nét và chi tiết ấn tượng ở mọi góc độ. Từ việc xem video chất lượng cao đến lướt web và chơi game, màn hình này mang đến trải nghiệm sắc nét và màu sắc chân thực."
+  },
+  {
+    "id": "6",
+    "ten": "iPhone 11 64GB Trắng",
+    "TH": "Xiaomi",
+    "image": "assets/img/sp1-6.jpg",
+    "soluong": "12",
+    "giamgia": "10490000",
+    "tien": "11490000",
+    "PTgiam": "10",
+    "information": "Độ phân giải Full HD+ (1080 x 2340 Pixels) đảm bảo độ rõ nét và chi tiết ấn tượng ở mọi góc độ. Từ việc xem video chất lượng cao đến lướt web và chơi game, màn hình này mang đến trải nghiệm sắc nét và màu sắc chân thực."
+  },
+  {
+    "id": "7",
+    "ten": "iPhone 13 Pro 128GB Vàng Đồng",
+    "TH": "Xiaomi",
+    "image": "assets/img/sp2-1.jpg",
+    "soluong": "9",
+    "giamgia": "25990000",
+    "tien": "26990000",
+    "PTgiam": "10",
+    "information": "Độ phân giải Full HD+ (1080 x 2340 Pixels) đảm bảo độ rõ nét và chi tiết ấn tượng ở mọi góc độ. Từ việc xem video chất lượng cao đến lướt web và chơi game, màn hình này mang đến trải nghiệm sắc nét và màu sắc chân thực."
+  },
+  {
+    "id": "8",
+    "ten": "iPhone 11 64GB Tím",
+    "TH": "Xiaomi",
+    "image": "assets/img/sp2-2.jpg",
+    "soluong": "7",
+    "giamgia": "10490000",
+    "tien": "11490000",
+    "PTgiam": "10",
+    "information": "Độ phân giải Full HD+ (1080 x 2340 Pixels) đảm bảo độ rõ nét và chi tiết ấn tượng ở mọi góc độ. Từ việc xem video chất lượng cao đến lướt web và chơi game, màn hình này mang đến trải nghiệm sắc nét và màu sắc chân thực."
+  },
+  {
+    "id": "9",
+    "ten": "Vivo Y15s 3GB/32GB Xanh Đen",
+    "TH": "Xiaomi",
+    "image": "assets/img/sp2-3.jpg",
+    "soluong": "3",
+    "giamgia": "3190000",
+    "tien": "2190000",
+    "PTgiam": "10",
+    "information": "Độ phân giải Full HD+ (1080 x 2340 Pixels) đảm bảo độ rõ nét và chi tiết ấn tượng ở mọi góc độ. Từ việc xem video chất lượng cao đến lướt web và chơi game, màn hình này mang đến trải nghiệm sắc nét và màu sắc chân thực."
+  },
+  {
+    "id": "10",
+    "ten": "Vivo Y72 5G 8GB/128GB Đen",
+    "TH": "Xiaomi",
+    "image": "assets/img/sp2-4.jpg",
+    "soluong": "7",
+    "giamgia": "6890000",
+    "tien": "5890000",
+    "PTgiam": "10",
+    "information": "Độ phân giải Full HD+ (1080 x 2340 Pixels) đảm bảo độ rõ nét và chi tiết ấn tượng ở mọi góc độ. Từ việc xem video chất lượng cao đến lướt web và chơi game, màn hình này mang đến trải nghiệm sắc nét và màu sắc chân thực."
+  },
+  {
+    "id": "11",
+    "ten": "Vivo V23e 8GB/128GB Đen",
+    "TH": "Xiaomi",
+    "image": "assets/img/sp2-5.jpg",
+    "soluong": "4",
+    "giamgia": "7390000",
+    "tien": "6390000",
+    "PTgiam": "10",
+    "information": "Độ phân giải Full HD+ (1080 x 2340 Pixels) đảm bảo độ rõ nét và chi tiết ấn tượng ở mọi góc độ. Từ việc xem video chất lượng cao đến lướt web và chơi game, màn hình này mang đến trải nghiệm sắc nét và màu sắc chân thực."
+  },
+  {
+    "id": "12",
+    "ten": "Samsung Galaxy S21 Ultra 5G 12GB/128GB Bạc",
+    "TH": "Xiaomi",
+    "image": "assets/img/sp2-6.jpg",
+    "soluong": "9",
+    "giamgia": "24990000",
+    "tien": "23990000",
+    "PTgiam": "12",
+    "information": "Độ phân giải Full HD+ (1080 x 2340 Pixels) đảm bảo độ rõ nét và chi tiết ấn tượng ở mọi góc độ. Từ việc xem video chất lượng cao đến lướt web và chơi game, màn hình này mang đến trải nghiệm sắc nét và màu sắc chân thực."
+  },
+  {
+    "id": "13",
+    "ten": "Samsung Galaxy A13 4GB/128GB Đen",
+    "TH": "Xiaomi",
+    "image": "assets/img/sp3-1.jpg",
+    "soluong": "6",
+    "giamgia": "3290000",
+    "tien": "4290000",
+    "PTgiam": "10",
+    "information": "Độ phân giải Full HD+ (1080 x 2340 Pixels) đảm bảo độ rõ nét và chi tiết ấn tượng ở mọi góc độ. Từ việc xem video chất lượng cao đến lướt web và chơi game, màn hình này mang đến trải nghiệm sắc nét và màu sắc chân thực."
+  },
+  {
+    "id": "14",
+    "ten": "Samsung S21 FE 5G 8GB/128GB Tím",
+    "TH": "Xiaomi",
+    "image": "assets/img/sp3-2.jpg",
+    "soluong": "10",
+    "giamgia": "13490000",
+    "tien": "14490000",
+    "PTgiam": "10",
+    "information": "Độ phân giải Full HD+ (1080 x 2340 Pixels) đảm bảo độ rõ nét và chi tiết ấn tượng ở mọi góc độ. Từ việc xem video chất lượng cao đến lướt web và chơi game, màn hình này mang đến trải nghiệm sắc nét và màu sắc chân thực."
+  },
+  {
+    "id": "15",
+    "ten": "Samsung S21 FE 5G 8GB/128GB Tím",
+    "TH": "Xiaomi",
+    "image": "assets/img/sp3-3.jpg",
+    "soluong": "4",
+    "giamgia": "13490000",
+    "tien": "14490000",
+    "PTgiam": "27",
+    "information": "Độ phân giải Full HD+ (1080 x 2340 Pixels) đảm bảo độ rõ nét và chi tiết ấn tượng ở mọi góc độ. Từ việc xem video chất lượng cao đến lướt web và chơi game, màn hình này mang đến trải nghiệm sắc nét và màu sắc chân thực."
+  },
+  {
+    "id": "16",
+    "ten": "Samsung Galaxy M22 4GB/128GB Đen",
+    "TH": "Xiaomi",
+    "image": "assets/img/sp3-4.jpg",
+    "soluong": "8",
+    "giamgia": "4390000",
+    "tien": "5390000",
+    "PTgiam": "15",
+    "information": "Độ phân giải Full HD+ (1080 x 2340 Pixels) đảm bảo độ rõ nét và chi tiết ấn tượng ở mọi góc độ. Từ việc xem video chất lượng cao đến lướt web và chơi game, màn hình này mang đến trải nghiệm sắc nét và màu sắc chân thực."
+  },
+  {
+    "id": "17",
+    "ten": "Realme 9 Pro+ 5G 8GB/128GB Xanh",
+    "TH": "Xiaomi",
+    "image": "assets/img/sp3-5.jpg",
+    "soluong": "5",
+    "giamgia": "6690000",
+    "tien": "7690000",
+    "PTgiam": "10",
+    "information": "Độ phân giải Full HD+ (1080 x 2340 Pixels) đảm bảo độ rõ nét và chi tiết ấn tượng ở mọi góc độ. Từ việc xem video chất lượng cao đến lướt web và chơi game, màn hình này mang đến trải nghiệm sắc nét và màu sắc chân thực."
+  },
+  {
+    "id": "18",
+    "ten": "Realme C21Y 3GB/32GB Xanh",
+    "TH": "Xiaomi",
+    "image": "assets/img/sp3-6.jpg",
+    "soluong": "3",
+    "giamgia": "2390000",
+    "tien": "3390000",
+    "PTgiam": "20",
+    "information": "Độ phân giải Full HD+ (1080 x 2340 Pixels) đảm bảo độ rõ nét và chi tiết ấn tượng ở mọi góc độ. Từ việc xem video chất lượng cao đến lướt web và chơi game, màn hình này mang đến trải nghiệm sắc nét và màu sắc chân thực."
+  },
+  {
+    "id": "19",
+    "ten": "Realme 9 8GB/128GB Đỏ",
+    "TH": "Xiaomi",
+    "image": "assets/img/sp4-1.jpg",
+    "soluong": "7",
+    "giamgia": "5990000",
+    "tien": "6990000",
+    "PTgiam": "10",
+    "information": "Độ phân giải Full HD+ (1080 x 2340 Pixels) đảm bảo độ rõ nét và chi tiết ấn tượng ở mọi góc độ. Từ việc xem video chất lượng cao đến lướt web và chơi game, màn hình này mang đến trải nghiệm sắc nét và màu sắc chân thực."
+  },
+  {
+    "id": "20",
+    "ten": "Realme 8i 4GB/64GB Đen",
+    "TH": "Xiaomi",
+    "image": "assets/img/sp4-2.jpg",
+    "soluong": "11",
+    "giamgia": "3790000",
+    "tien": "4790000",
+    "PTgiam": "20",
+    "information": "Độ phân giải Full HD+ (1080 x 2340 Pixels) đảm bảo độ rõ nét và chi tiết ấn tượng ở mọi góc độ. Từ việc xem video chất lượng cao đến lướt web và chơi game, màn hình này mang đến trải nghiệm sắc nét và màu sắc chân thực."
+  }
+]

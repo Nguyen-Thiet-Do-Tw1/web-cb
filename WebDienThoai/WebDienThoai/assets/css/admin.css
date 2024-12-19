@@ -1,0 +1,53 @@
+﻿/* Thiết lập font chữ chung */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Thiết lập các kiểu định dạng cho form */
+#admin table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+    #admin table td {
+        padding: 8px;
+        border: 1px solid #ddd;
+    }
+
+    #admin table tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+
+    #admin table tr:hover {
+        background-color: #ddd;
+    }
+
+/* Thiết lập kích thước cho ảnh sản phẩm trong gridview */
+#admin img {
+    max-width: 100px;
+    max-height: 100px;
+}
+
+/* Thiết lập các kiểu định dạng cho button */
+#admin input[type="submit"],
+#admin input[type="button"],
+#admin input[type="reset"],
+#admin button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 12px 20px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+    #admin input[type="submit"]:hover,
+    #admin input[type="button"]:hover,
+    #admin input[type="reset"]:hover,
+    #admin button:hover {
+        background-color: #fe5d5d;
+    }

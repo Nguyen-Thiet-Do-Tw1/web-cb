@@ -1,0 +1,127 @@
+﻿.header__content-nav--item5 {
+    color: var(--white-color);
+    background-color: var(--primary-color);
+} 
+main {
+    width: 100%;
+}
+
+.main__content--border {
+    height: 2px;
+    width: 100%;
+    background-color: var(--primary-color);
+}
+
+@media (min-width: 1024px) {
+    .main__title {
+        margin-top: 60px;
+        margin-left: 100px;
+    }
+
+    .main__content {
+        margin-left: 100px;
+        margin-right: 90px;
+        margin-top: 20px;
+        margin-bottom: 50px;
+        line-height: 20px;
+        font-size: 1.4rem;
+        text-align: justify;
+    }
+
+    .main__content--group {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .group__title {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        width: 100%;
+        font-size: 1.4rem;
+        color: var(--primary-color);
+    }
+
+    .group__one {
+        flex: 1;
+    }
+
+    .group__second {
+        flex: 1;
+    }
+}
+
+@media (max-width: 1023px) and (min-width: 740px) {
+    .main__title {
+        margin-top: 40px;
+        margin-left: 60px;
+    }
+
+    .main__content {
+        margin-left: 60px;
+        margin-right: 40px;
+        margin-top: 20px;
+        margin-bottom: 30px;
+        line-height: 20px;
+        font-size: 1.4rem;
+        text-align: justify;
+    }
+
+    .main__content--group {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .group__title {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        width: 100%;
+        font-size: 1.4rem;
+        color: var(--primary-color);
+    }
+
+    .group__one {
+        flex: 1;
+    }
+
+    .group__second {
+        flex: 1;
+    }
+}
+
+@media (max-width: 739px) {
+    .main__title {
+        margin-top: 40px;
+        margin-left: 100px;
+    }
+
+    .main__content {
+        margin-left: 100px;
+        margin-right: 100px;
+        margin-top: 20px;
+        margin-bottom: 30px;
+        line-height: 20px;
+        font-size: 1.4rem;
+        text-align: justify;
+    }
+
+    .main__content--group {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .group__title {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        width: 100%;
+        font-size: 1.4rem;
+        color: var(--primary-color);
+    }
+
+    .group__one {
+        flex: 1;
+    }
+
+    .group__second {
+        flex: 1;
+    }
+}

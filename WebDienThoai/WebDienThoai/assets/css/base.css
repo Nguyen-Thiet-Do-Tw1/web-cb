@@ -1,0 +1,21 @@
+:root {
+    --primary-color : #EE4D2D;
+    --white-color : #FFFFFF;
+    --black-color :  #000000;
+    --text-color : #313131;
+}
+
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+html {
+    text-align: center;
+    font-size: 85.5%;
+    line-height: 1.6rem;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    width: 100%;
+}

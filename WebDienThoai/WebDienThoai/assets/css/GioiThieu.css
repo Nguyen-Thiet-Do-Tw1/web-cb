@@ -1,0 +1,29 @@
+﻿.header__content-nav--item2 {
+    color: var(--white-color);
+    background-color: var(--primary-color);
+} 
+main {
+    width: 100%;
+}
+
+.main__title {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.main__content {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    line-height: 20px;
+    font-size: 1.4rem;
+    text-align: justify;
+}
+
+    .main__content h3 {
+        margin-top: 20px;
+        line-height: 20px;
+        font-size: 1.4rem;
+        color: var(--primary-color);
+    }

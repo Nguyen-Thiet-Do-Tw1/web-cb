@@ -1,0 +1,64 @@
+﻿.main {
+    min-height: 400px;
+    font-size: 1.3rem;
+}
+
+table {
+    width: 90%;
+    margin-left: 40px;
+}
+
+#d2 {
+    border: 0;
+    padding: 0;
+    width: 70%;
+    display: flex;
+}
+
+.ktb {
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin: 0px;
+}
+
+.xoaSP {
+    text-decoration: none;
+    font-weight: 600;
+    color: var(--black-color);
+}
+
+.buttonMuaHang {
+    margin-left: 40px;
+    background-color: var(--primary-color);
+    color: var(--white-color);
+    font-weight: 500;
+    border: 0px;
+    width: 80px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.buttonThayDoi {
+    margin-left: 40px;
+    background-color: var(--primary-color);
+    color: var(--white-color);
+    font-weight: 500;
+    border: 0px;
+    width: 80px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.buttonMuaHang:hover {
+    background-color: #ccc;
+}
+
+.buttonThayDoi:hover {
+    background-color: #ccc;
+}
+
+.lblthongbaoloi {
+    font-weight: 500;
+    margin-left: 40px;
+    font-size: 1.3rem;
+}
